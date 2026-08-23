@@ -49,7 +49,9 @@ sistema en campus universitarios y centros de salud.
 
 
 Recursos:
-
-Herramientas digitales (Google Docs, WhatsApp para coordinación).
-
-Materiales físicos básicos según la temática elegida.
+- Microcontrolador: Raspberry Pi Pico W (módulo principal con Wi-Fi)
+- Sensores de detección y clasificación: Inductivo, Humedad, Óptico/Infrarrojo
+- Sistema de señalización visual: Luces LED (Verde, Blanco, Negro) con resistencias
+- Soporte y conexionado: Protoboard 830 puntos, Cables Jumper, Convertidor de nivel lógico
+- Alimentación: Fuente de Alimentación Regulada (5V / 2A a 3A)
+- Software y herramientas: GitHub, Git Bash, VS Code, SketchUp
