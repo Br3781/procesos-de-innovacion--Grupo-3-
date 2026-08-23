@@ -25,17 +25,28 @@ Ante la necesidad de promover espacios más limpios y colaborativos, este mini-p
 
 Objetivos:
 
-Fomentar la participación activa de todos los integrantes del grupo.
+Parte 3: Objetivos del Proyecto (Lo que se quiere lograr)1.
+Objetivo GeneralDiseñar e implementar una solución tecnológica (adaptación IoT)
+para transformar los puntos ecológicos tradicionales en puntos ecológicos inteligentes, 
+optimizando la segregación de residuos en instituciones como la Universidad Peruana Cayetano
+Heredia sin interrumpir la fluidez de los usuarios. 
 
-Diseñar un modelo replicable de bajo costo.
+2. Objetivos Específicos
+Resolver la segregación deficiente:Guiar de forma intuitiva al usuario en 
+segundos mediante luces LED y sensores para asegurar que cada residuo 
+(plásticos, papel/cartón, orgánicos, etc.) vaya al tacho correcto. 
 
-Cronograma de Tareas (Ejemplo de división de roles):
+Implementar un sistema de bajo costo y adaptativo: Desarrollar un módulo
+electrónico accesible basado en Raspberry Pi Pico W que no reemplace la infraestructura 
+actual, sino que se adapte a los contenedores existentes. 
+Garantizar la fluidez en el uso:
+Crear un proceso rápido en 5 pasos (Aproximación, Escaneo Express, Señalización Active,
+Depósito Guiado y Fluidez Continua) para evitar colas o dudas en los usuarios al momento de 
+desechar su basura.  
+Establecer un modelo de negocio escalable: Ofrecer paquetes comerciales
+atractivos (Básico, VIP y Premium) que permitan la adopción y el mantenimiento continuo del 
+sistema en campus universitarios y centros de salud. 
 
-Fase 1 (Investigación y Diseño): Asignado a [Nombre 1].
-
-Fase 2 (Recopilación de materiales): Asignado a [Nombre 2].
-
-Fase 3 (Redacción y presentación del informe): Asignado a [Nombre 3].
 
 Recursos:
 
